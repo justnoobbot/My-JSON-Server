@@ -22,59 +22,59 @@
   ],
     "courses": [
       {
-        id: 1,
-        title: "Angular 9 Firebase Project Course",
-        instructor: "Jeff Delaney",
-        img: "https://fireship.io/courses/angular/img/featured.jpg",
-        description:"The difficulty of managing state is one of the primary reasons our applications become so complex. We try and manage this complexity with a lot of booleans, somewhat semantic variables like isLoading, wasFetched, and hasError, and over-engineered systems that are still full of bugs. Surely, there's a better way.",
-        category: "Web Development",
-        topics:[2, 4],
-        subscribers:30.528
+        "id": 1,
+        "title": "Angular 9 Firebase Project Course",
+        "instructor": "Jeff Delaney",
+        "img": "https://fireship.io/courses/angular/img/featured.jpg",
+        "description":"The difficulty of managing state is one of the primary reasons our applications become so complex. We try and manage this complexity with a lot of booleans, somewhat semantic variables like isLoading, wasFetched, and hasError, and over-engineered systems that are still full of bugs. Surely, there's a better way.",
+        "category": "Web Development",
+        "topics":[2, 4],
+        "subscribers":30.528
       },
       {
-        id: 2,
-        title: "Vue Firebase Project Course",
-        instructor: "Jeff Delaney",
-        img: "https://fireship.io/courses/vue/img/featured.jpg",
-        category: "Game Development",
-        topics:[3, 4],
-        subscribers:32
+        "id": 2,
+        "title": "Vue Firebase Project Course",
+        "instructor": "Jeff Delaney",
+        "img": "https://fireship.io/courses/vue/img/featured.jpg",
+        "category": "Game Development",
+        "topics":[3, 4],
+        "subscribers":32
       },
       {
-        id: 3,
-        title: "Ionic 4 Firebase Project Course",
-        instructor: "Jeff Delaney",
-        img: "https://fireship.io/courses/ionic/img/featured.jpg",
-        category: "Mobile Development",
-        topics:[4],
-        subscribers:12
+        "id": 3,
+        "title": "Ionic 4 Firebase Project Course",
+        "instructor": "Jeff Delaney",
+        "img": "https://fireship.io/courses/ionic/img/featured.jpg",
+        "category": "Mobile Development",
+        "topics":[4],
+        "subscribers":12
       },
       {
-        id: 4,
-        title: "Flutter Firebase App from Scratch",
-        instructor: "Jeff Delaney",
-        img: "https://fireship.io/courses/flutter-firebase/img/featured.jpg",
-        category: "Desktop Development",
-        topics:[4],
-        subscribers:5
+        "id": 4,
+        "title": "Flutter Firebase App from Scratch",
+        "instructor": "Jeff Delaney",
+        "img": "https://fireship.io/courses/flutter-firebase/img/featured.jpg",
+        "category": "Desktop Development",
+        "topics":[4],
+        "subscribers":5
       },
       {
-        id: 5,
-        title: "Javascript from zero",
-        instructor: "John Doe",
-        img: "https://fireship.io/courses/ionic/img/featured.jpg",
-        category: "Javascript",
-        topics:[5],
-        subscribers:26
+        "id": 5,
+        "title": "Javascript from zero",
+        "instructor": "John Doe",
+        "img": "https://fireship.io/courses/ionic/img/featured.jpg",
+        "category": "Javascript",
+        "topics":[5],
+        "subscribers":26
       },
       {
-        id: 6,
-        title: "CSS in 2021",
-        instructor: "Alex Ander",
-        img: "https://fireship.io/courses/flutter-firebase/img/featured.jpg",
-        category: "Web Development",
-        topics:[],
-        subscribers:17
+        "id": 6,
+        "title": "CSS in 2021",
+        "instructor": "Alex Ander",
+        "img": "https://fireship.io/courses/flutter-firebase/img/featured.jpg",
+        "category": "Web Development",
+        "topics":[],
+        "subscribers":17
       }
     ]
 }
