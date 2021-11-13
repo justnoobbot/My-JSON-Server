@@ -1,0 +1,80 @@
+{
+  "posts": [
+    { "id": 1, "title": "Réseau ENSA au Maroc", "body": "Le réseau ENSA – Ecoles Nationales des Sciences Appliquées – est un groupe d’écoles d’ingénieurs dans toutes les villes du Maroc, qui compte 11 écoles d’ingénieurs.<br/>Les ENSA Maroc offrent des formations en sciences d’ingénierie en diverses filières et qui peuvent différer entre une ENSA et une autre. La durée d’études aux ENSA est étalée sur 5 ans,  dont les deux premières années sont préparatoires. Le réseau ENSA figure parmi la liste des écoles d’ingénieurs au Maroc qui reçoivent un grand nombre de bacheliers chaque année." },
+    { "id": 2, "title": "Concours ENSA Maroc", "body": "Le concours des ENSA Maroc se déroule vers la fin du mois de Juillet, les résultats du concours sont annoncés sur le site <a href='http://wwww.ensa-concours.ma'>http://www.ensa-concours.ma</a> sur lequel se passent presque toutes les étapes : de la candidature à l’annonce de la liste des admis.<br/>Pour accéder à l’une des écoles du réseau ENSA Maroc, le bachelier doit faire sa candidature sur le site dédié à cela, par ce que jusqu’à l’année 2012, les élèves envoyaient leurs dossiers d’inscriptions à toutes les ENSA du pays. Mais depuis 2013 le ministère a conçu le site <a href='http://wwww.ensa-concours.ma'>http://www.ensa-concours.ma</a> spécialement pour faciliter aux élèves ainsi qu’aux écoles toute la procédure.<br/>L’inscription dans le site du concours ENSA commence vers le mois de Mai et s’arrête le mois de Juin. Pour permettre le traitement des dossiers de chaque élève." },
+    { "id": 3, "title": "Filières enseignées à l’ENSA", "body": "Parmi les filières enseignées à l’ENSA on compte : Génie Informatique, Génie Industriel, Génie Civile, Génie Mécanique, Génie Electrique…etc.<br/>Les filières correspondent au diplôme livré à la fin de la formation, ça veut dire que chaque élève à l’ENSA est graduellement spécialisé durant les 5 années et ce à partir de la 3éme année, en choisissant une filière adaptée aux préférences de chacun." }
+  ],
+  "comments": [
+    { "id": 1, "body": "Burn her! Bring her forward! Where'd you get the coconuts? Shut up! Will you shut up?! We found them.", "postId": 1 },
+    { "id": 2, "body": "Well, I didn't vote for you. I dunno. Must be a king. Now, look here, my good man. Well, Mercia's a temperate zone! No, no, no! Yes, yes. A bit. But she's got a wart. Ni! Ni! Ni! Ni!", "postId": 1 }
+  ],
+  "users": [
+    { "id": 1, "username": "mkrajewsky", "email": "mkrajewsky@git", "name": "Michal Krajewsky", "points": 785 },
+    { "id": 2, "username": "ptreweela1", "email": "ptreweela1@aboutads.info", "name": "Perla Treweela", "points": 275 },
+    { "id": 3, "username": "hwoolfoot2", "email": "hwoolfoot2@wp.com", "name": "Hinda Woolfoot", "points": 331 },
+    { "id": 4, "username": "dstandall3", "email": "dstandall3@sciencedirect.com", "name": "Dorine Standall", "points": 720 },
+    { "id": 5, "username": "aminchindon4", "email": "aminchindon4@amazon.co.jp", "name": "Alyson Minchindon", "points": 676 },
+    { "id": 6, "username": "tdoyland5", "email": "tdoyland5@diigo.com", "name": "Torey Doyland", "points": 287 },
+    { "id": 7, "username": "chabben6", "email": "chabben6@ebay.com", "name": "Cleon Habben", "points": 12 },
+    { "id": 8, "username": "cmurdoch7", "email": "cmurdoch7@smh.com.au", "name": "Clair Murdoch", "points": 588 },
+    { "id": 9, "username": "dthor8", "email": "dthor8@ft.com", "name": "Damiano Thor", "points": 365 },
+    { "id": 10, "username": "afont9", "email": "afont9@mashable.com", "name": "Aimee Font", "points": 780 }
+  ],
+    "courses": [
+      {
+        id: 1,
+        title: "Angular 9 Firebase Project Course",
+        instructor: "Jeff Delaney",
+        img: "https://fireship.io/courses/angular/img/featured.jpg",
+        description:"The difficulty of managing state is one of the primary reasons our applications become so complex. We try and manage this complexity with a lot of booleans, somewhat semantic variables like isLoading, wasFetched, and hasError, and over-engineered systems that are still full of bugs. Surely, there's a better way.",
+        category: "Web Development",
+        topics:[2, 4],
+        subscribers:30.528
+      },
+      {
+        id: 2,
+        title: "Vue Firebase Project Course",
+        instructor: "Jeff Delaney",
+        img: "https://fireship.io/courses/vue/img/featured.jpg",
+        category: "Game Development",
+        topics:[3, 4],
+        subscribers:32
+      },
+      {
+        id: 3,
+        title: "Ionic 4 Firebase Project Course",
+        instructor: "Jeff Delaney",
+        img: "https://fireship.io/courses/ionic/img/featured.jpg",
+        category: "Mobile Development",
+        topics:[4],
+        subscribers:12
+      },
+      {
+        id: 4,
+        title: "Flutter Firebase App from Scratch",
+        instructor: "Jeff Delaney",
+        img: "https://fireship.io/courses/flutter-firebase/img/featured.jpg",
+        category: "Desktop Development",
+        topics:[4],
+        subscribers:5
+      },
+      {
+        id: 5,
+        title: "Javascript from zero",
+        instructor: "John Doe",
+        img: "https://fireship.io/courses/ionic/img/featured.jpg",
+        category: "Javascript",
+        topics:[5],
+        subscribers:26
+      },
+      {
+        id: 6,
+        title: "CSS in 2021",
+        instructor: "Alex Ander",
+        img: "https://fireship.io/courses/flutter-firebase/img/featured.jpg",
+        category: "Web Development",
+        topics:[],
+        subscribers:17
+      }
+    ]
+}
