@@ -156,5 +156,103 @@
       "topics":[],
       "subscribers":17
     }
+  ],
+  "chapters": [
+    {
+      "courseId":1,
+      "id": 1,
+      "title": "1 Resources",
+      "subtitle": "Project source code and Vue Firebase resources",
+      "duration":"2:01",
+      "subchapter":"Get Started",
+      "firstInSub":true,
+      "source": [
+        {
+          "src": "https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-720p.mp4",
+          "type": "video/mp4",
+          "size": 720
+        }
+      ]
+    },
+    {
+      "courseId":1,
+      "id": 2,
+      "title": "2 Vue Setup",
+      "subtitle": "Get started with the Vue CLI",
+      "duration":"1:13",
+      "subchapter":"Get Started",
+      "firstInSub":false,
+      "source": [
+        {
+          "src": "https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-720p.mp4",
+          "type": "video/mp4",
+          "size": 720
+        }
+      ]
+    },
+    {
+      "courseId":1,
+      "id": 3,
+      "title": "3 Firebase Setup",
+      "subtitle": "Install Firebase and the Vuefire package",
+      "duration":"3:21",
+      "subchapter":"Get Started",
+      "firstInSub":false,
+      "source": [
+        {
+          "src": "https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-720p.mp4",
+          "type": "video/mp4",
+          "size": 720
+        }
+      ]
+    },
+    {
+      "courseId":1,
+      "id": 4,
+      "title": "4 Your First Component",
+      "subtitle": "Build a basic home page component with routing",
+      "duration":"0:51",
+      "subchapter":"Get Started",
+      "firstInSub":false,
+      "source": [
+        {
+          "src": "https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-720p.mp4",
+          "type": "video/mp4",
+          "size": 720
+        }
+      ]
+    },
+    {
+      "courseId":1,
+      "id": 5,
+      "title": "5 Anonymous Auth",
+      "subtitle": "Basic user authentication with Firebase",
+      "duration":"5:34",
+      "subchapter":"User Authentication",
+      "firstInSub":true,
+      "source": [
+                {
+                  "src": "https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-720p.mp4",
+                  "type": "video/mp4",
+                  "size": 720
+                }
+              ]
+    },
+    {
+      "courseId":1,
+      "id": 6,
+      "title": "6 Realtime Auth State",
+      "subtitle": "React to changes to the Firebase User Auth State",
+      "duration":"2:01",
+      "subchapter":"User Authentication",
+      "firstInSub":false,
+      "source": [
+        {
+          "src": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+          "type": "video/mp4",
+          "size": 720
+        }
+      ]
+    }
   ]
 }
