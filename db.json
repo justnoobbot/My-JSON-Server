@@ -28,61 +28,133 @@
     { "id": 9, "username": "dthor8", "email": "dthor8@ft.com", "name": "Damiano Thor", "bio":"Full Stack maker & UI / UX Designer , love hip hop music Author of Building UI.", "image": "https://gravatar.com/avatar/b07156f66fc688197314b248d7d5c647.png?s=128&d=mp&w=32&q=75", "bookmarks": [4,2,3,1], "enrolled": [1,3] },
     { "id": 10, "username": "afont9", "email": "afont9@mashable.com", "name": "Aimee Font", "bio":"Full Stack maker & UI / UX Designer , love hip hop music Author of Building UI.", "image": "https://gravatar.com/avatar/b07156f66fc688197314b248d7d5c647.png?s=128&d=mp&w=32&q=75", "bookmarks": [4,2,3,1], "enrolled": [1,3] }
   ],
-    "courses": [
-      {
-        "id": 1,
-        "title": "Angular 9 Firebase Project Course",
-        "instructor": "Jeff Delaney",
-        "img": "https://fireship.io/courses/angular/img/featured.jpg",
-        "description":"The difficulty of managing state is one of the primary reasons our applications become so complex. We try and manage this complexity with a lot of booleans, somewhat semantic variables like isLoading, wasFetched, and hasError, and over-engineered systems that are still full of bugs. Surely, there's a better way.",
-        "category": "Web Development",
-        "topics":[2, 4],
-        "subscribers":30.528
-      },
-      {
-        "id": 2,
-        "title": "Vue Firebase Project Course",
-        "instructor": "Jeff Delaney",
-        "img": "https://fireship.io/courses/vue/img/featured.jpg",
-        "category": "Game Development",
-        "topics":[3, 4],
-        "subscribers":32
-      },
-      {
-        "id": 3,
-        "title": "Ionic 4 Firebase Project Course",
-        "instructor": "Jeff Delaney",
-        "img": "https://fireship.io/courses/ionic/img/featured.jpg",
-        "category": "Mobile Development",
-        "topics":[4],
-        "subscribers":12
-      },
-      {
-        "id": 4,
-        "title": "Flutter Firebase App from Scratch",
-        "instructor": "Jeff Delaney",
-        "img": "https://fireship.io/courses/flutter-firebase/img/featured.jpg",
-        "category": "Desktop Development",
-        "topics":[4],
-        "subscribers":5
-      },
-      {
-        "id": 5,
-        "title": "Javascript from zero",
-        "instructor": "John Doe",
-        "img": "https://fireship.io/courses/ionic/img/featured.jpg",
-        "category": "Javascript",
-        "topics":[5],
-        "subscribers":26
-      },
-      {
-        "id": 6,
-        "title": "CSS in 2021",
-        "instructor": "Alex Ander",
-        "img": "https://fireship.io/courses/flutter-firebase/img/featured.jpg",
-        "category": "Web Development",
-        "topics":[],
-        "subscribers":17
-      }
-    ]
+   "reviews": [
+    {
+      "postId": 1,
+      "id": 1,
+      "userId": 1,
+      "body": "This is a insightful course if you know basic theory of machines (in the mathematical sense)",
+      "time":"a year ago"
+    },
+    {
+      "postId": 2,
+      "id": 3,
+      "userId": 1,
+      "body": "Excellent presentation. Thank you.",
+      "time":"a year ago"
+    },
+    {
+      "postId": 2,
+      "id": 4,
+      "userId": 1,
+      "body": "A fantastic, short introduction to State Machines with Xstate! The density of concepts is enormous and my imagination is running wild! Thanks Kyle!",
+      "time":"a year ago"
+    },
+    {
+      "postId": 3,
+      "id": 5,
+      "userId": 1,
+      "body": "fuga eos qui dolor rerum\ncorporis cupiditate et deserunt recusandae est sed quis culpa\neum maiores corporis et",
+      "time":"a year ago"
+    },
+    {
+      "postId": 3,
+      "id": 6,
+      "userId": 1,
+      "body": "vel quae voluptas qui exercitationem\nexpedita magnam laudantium et et quaerat ut qui dolorum",
+      "time":"a year ago"
+    },
+    {
+      "postId": 3,
+      "id": 7,
+      "userId": 1,
+      "body": "nihil ut voluptates blanditiis autem odio dicta rerum\nmolestias tempora quo quia",
+      "time":"a year ago"
+    },
+    {
+      "postId": 4,
+      "id": 8,
+      "userId": 1,
+      "body": "This is a insightful course if you know basic theory of machines (in the mathematical sense)",
+      "time":"a year ago"
+    },
+    {
+      "postId": 4,
+      "id": 9,
+      "userId": 2,
+      "body": "I'm new to xstate and it was a great intro in such a great tool. Thanks",
+      "time":"a year ago"
+    },
+    {
+      "postId": 4,
+      "id": 10,
+      "userId": 3,
+      "body": "Excellent presentation. Thank you.",
+      "time":"a year ago"
+    },
+    {
+      "postId": 4,
+      "id": 11,
+      "userId": 4,
+      "body": "A fantastic, short introduction to State Machines with Xstate! The density of concepts is enormous and my imagination is running wild! Thanks Kyle!",
+      "time":"a year ago"
+    },
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "title": "Angular 9 Firebase Project Course",
+      "instructor": "Jeff Delaney",
+      "img": "https://fireship.io/courses/angular/img/featured.jpg",
+      "description":"The difficulty of managing state is one of the primary reasons our applications become so complex. We try and manage this complexity with a lot of booleans, somewhat semantic variables like isLoading, wasFetched, and hasError, and over-engineered systems that are still full of bugs. Surely, there's a better way.",
+      "category": "Web Development",
+      "topics":[2, 4],
+      "subscribers":30.528
+    },
+    {
+      "id": 2,
+      "title": "Vue Firebase Project Course",
+      "instructor": "Jeff Delaney",
+      "img": "https://fireship.io/courses/vue/img/featured.jpg",
+      "category": "Game Development",
+      "topics":[3, 4],
+      "subscribers":32
+    },
+    {
+      "id": 3,
+      "title": "Ionic 4 Firebase Project Course",
+      "instructor": "Jeff Delaney",
+      "img": "https://fireship.io/courses/ionic/img/featured.jpg",
+      "category": "Mobile Development",
+      "topics":[4],
+      "subscribers":12
+    },
+    {
+      "id": 4,
+      "title": "Flutter Firebase App from Scratch",
+      "instructor": "Jeff Delaney",
+      "img": "https://fireship.io/courses/flutter-firebase/img/featured.jpg",
+      "category": "Desktop Development",
+      "topics":[4],
+      "subscribers":5
+    },
+    {
+      "id": 5,
+      "title": "Javascript from zero",
+      "instructor": "John Doe",
+      "img": "https://fireship.io/courses/ionic/img/featured.jpg",
+      "category": "Javascript",
+      "topics":[5],
+      "subscribers":26
+    },
+    {
+      "id": 6,
+      "title": "CSS in 2021",
+      "instructor": "Alex Ander",
+      "img": "https://fireship.io/courses/flutter-firebase/img/featured.jpg",
+      "category": "Web Development",
+      "topics":[],
+      "subscribers":17
+    }
+  ]
 }
