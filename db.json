@@ -12,9 +12,9 @@
     { "id": 3, "title": "Vue", "courseCount":1 },
     { "id": 4, "title": "Firebase", "courseCount":1 },
     { "id": 5, "title": "Javascript", "courseCount":1 },
-    { "id": 5, "title": "Typescript", "courseCount":0 },
-    { "id": 5, "title": "Python", "courseCount":0 },
-    { "id": 5, "title": "Java", "courseCount":0 }
+    { "id": 6, "title": "Typescript", "courseCount":0 },
+    { "id": 7, "title": "Python", "courseCount":0 },
+    { "id": 8, "title": "Java", "courseCount":0 }
   ],
    "reviews": [
     {
